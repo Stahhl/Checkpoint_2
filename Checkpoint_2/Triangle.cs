@@ -14,6 +14,7 @@ namespace Checkpoint_2
 
         public Triangle(int size, char c)
         {
+            
             MySize = size;
 
             if (c == 'A')
